@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Blood</string>
+
+    <string-array name="Bloods">
+        <item>Select</item>
+        <item>A</item>
+        <item>A+</item>
+        <item>B</item>
+        <item>B+</item>
+        <item>O</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Krishna</item>
+        <item>Prakash</item>
+        <item>Nagappan</item>
+    </string-array>
+
+    <string-array name="namesap">
+        <item>Kishore</item>
+        <item>Naveen</item>
+        <item>Surya</item>
+    </string-array>
+
+    <string-array name="namesb">
+        <item>Mathan</item>
+        <item>Manikandan</item>
+        <item>Nishoke</item>
+    </string-array>
+
+    <string-array name="namesbp">
+        <item>Logesh</item>
+        <item>Praveen</item>
+        <item>Nishoke</item>
+    </string-array>
+
+    <string-array name="nameso">
+        <item>Raina</item>
+        <item>Dhoni</item>
+        <item>Kholi</item>
+    </string-array>
+
+    <string-array name="namesop">
+        <item>Rohit</item>
+        <item>Dhawan</item>
+        <item>Rayadu</item>
+    </string-array>
+
+    <string-array name="namesabp">
+        <item>Jadhav</item>
+        <item>Shankar</item>
+        <item>Pandya</item>
+    </string-array>
+
+    <string-array name="namesabn">
+        <item>Bumrah</item>
+        <item>Shami</item>
+        <item>Kuldeep</item>
+    </string-array>
+
+
+
+</resources>
